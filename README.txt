@@ -1,9 +1,7 @@
 
 #eNoticeWebApp
 ### student
-```
-Home page
-```
+
 ![alt text](https://github.com/Arbazbms/eNorticeWebApp/blob/master/screenshots/home.jpg)
 ![alt text](https://github.com/Arbazbms/eNorticeWebApp/blob/master/screenshots/signin.jpg)
 ![alt text](https://github.com/Arbazbms/eNorticeWebApp/blob/master/screenshots/registration.jpg)
